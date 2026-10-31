@@ -1,3 +1,5 @@
+![Banner SEPOLSE](Estúdio%20tecnológico%20SEPOLSE%20ao%20entardecer.png)
+ 
  # Olá, eu sou Ednaldo da Silva Lopes
 
 Desenvolvedor e criador da **SEPOLSE Tecnologia & Soluções Digitais**.
