@@ -18,7 +18,7 @@ Atualmente ampliando minha formação em **Desenvolvimento Web e Mobile** e **Ci
 
 </div>
 
-## SEPOLSE Tecnologia & Soluções Digitais
+## Projetos e Soluções SEPOLSE
 
 A SEPOLSE é voltada ao desenvolvimento de sistemas e aplicativos para gestão, automação e apoio a diferentes atividades profissionais.
 
