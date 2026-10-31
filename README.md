@@ -23,7 +23,13 @@ Entre os projetos em desenvolvimento estão:
 - **Guardyan**
 - **SEPOLSEG**
 - **SEPO — Assistente Virtual**
+- **JU — Agente de IA para Desenvolvimento**
 - **SecretBlink**
+- **Aprovado**
+- **AgroDrone**
+- **Conta+**
+- **Conta+ Fácil**
+- **SepolseApp**
 - **Nota Fácil MEI**
 - **Emiti.me**
 
