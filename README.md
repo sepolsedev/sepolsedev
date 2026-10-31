@@ -1,16 +1,70 @@
-## Hi there 👋
+ # Olá, eu sou Ednaldo da Silva Lopes
 
-<!--
-**sepolsedev/sepolsedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor e criador da **SEPOLSE Tecnologia & Soluções Digitais**.
 
-Here are some ideas to get you started:
+Atualmente estou ampliando minha formação nas áreas de **Desenvolvimento Web e Mobile** e **Ciência de Dados**, desenvolvendo projetos práticos para transformar necessidades reais em soluções digitais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## SEPOLSE Tecnologia & Soluções Digitais
+
+A SEPOLSE é voltada ao desenvolvimento de sistemas e aplicativos para gestão, automação e apoio a diferentes atividades profissionais.
+
+Entre os projetos em desenvolvimento estão:
+
+- **FEN — Finanças, Empresas e Negócios**
+- **FEN Leitor**
+- **FEN Elétrica**
+- **FEN Serralheria**
+- **FEN Agro**
+- **FEN Motos**
+- **FEN Vidro**
+- **FEN Pão**
+- **Guardyan**
+- **SEPOLSEG**
+- **SEPO — Assistente Virtual**
+- **SecretBlink**
+- **Nota Fácil MEI**
+- **Emiti.me**
+
+## Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+## Áreas de desenvolvimento
+
+- Desenvolvimento Web
+- Aplicativos Android
+- Python
+- Banco de dados PostgreSQL
+- Ciência e visualização de dados
+- Sistemas de gestão
+- Automação de processos
+
+## Projetos acadêmicos
+
+Além dos projetos da SEPOLSE, este perfil também reúne atividades desenvolvidas durante minha formação técnica, permitindo acompanhar minha evolução no desenvolvimento de software.
+
+### Projeto Vue.js
+
+Aplicação web desenvolvida para estudo de componentes reativos, `props`, eventos, `v-model`, propriedades computadas, pesquisa em tempo real e carrinho de compras.
+
+[Ver projeto Vue.js](https://github.com/sepolsedev/trabalho-vuejs)
+
+### Dashboard de Cotações
+
+Dashboard desenvolvido com Python para consulta e visualização de cotações de moedas utilizando API pública, ETL, SQLite e Streamlit.
+
+[Ver Dashboard de Cotações](https://github.com/sepolsedev/dashboard-cotacoes-moedas)
+
+---
+
+**SEPOLSE Tecnologia & Soluções Digitais**
+
+Desenvolvendo soluções digitais a partir de problemas reais.
