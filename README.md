@@ -124,6 +124,20 @@ Projeto acadêmico de engenharia de dados desenvolvido em Python para coleta e e
   <img src="https://img.shields.io/badge/ABRIR-REPOSITÓRIO-F57C00?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
+
+## Estatísticas do GitHub
+
+<div align="center">
+
+<a href="https://github.com/sepolsedev">
+  <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=sepolsedev&show_icons=true&include_all_commits=true&locale=pt-br&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/sepolsedev">
+  <img height="195" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sepolsedev&langs_count=4&card_width=320&locale=pt-br&theme=tokyonight" />
+</a>
+
+</div>
 ---
 
 **SEPOLSE Tecnologia & Soluções Digitais**
