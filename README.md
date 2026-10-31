@@ -1,10 +1,22 @@
 ![Banner SEPOLSE](Estúdio%20tecnológico%20SEPOLSE%20ao%20entardecer.png)
  
- # Olá, eu sou Ednaldo da Silva Lopes
+<div align="center">
 
-Desenvolvedor e criador da **SEPOLSE Tecnologia & Soluções Digitais**.
+# Ednaldo da Silva Lopes
 
-Atualmente estou ampliando minha formação nas áreas de **Desenvolvimento Web e Mobile** e **Ciência de Dados**, desenvolvendo projetos práticos para transformar necessidades reais em soluções digitais.
+### SEPOLSE Tecnologia & Soluções Digitais
+
+<img src="https://img.shields.io/badge/Desenvolvimento-Web%20%26%20Mobile-0D47A1?style=for-the-badge">
+<img src="https://img.shields.io/badge/Ciência-de%20Dados-F57C00?style=for-the-badge">
+<img src="https://img.shields.io/badge/Sistemas-Gestão%20%26%20Automação-0D47A1?style=for-the-badge">
+
+<br><br>
+
+Desenvolvedor de sistemas, aplicativos e soluções digitais.
+
+Atualmente ampliando minha formação em **Desenvolvimento Web e Mobile** e **Ciência de Dados**.
+
+</div>
 
 ## SEPOLSE Tecnologia & Soluções Digitais
 
