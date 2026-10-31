@@ -174,6 +174,18 @@ Projeto acadêmico de engenharia de dados desenvolvido em Python para coleta e e
 
 </div>
 
+## Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sepolsedev/sepolsedev/gh-pages/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sepolsedev/sepolsedev/gh-pages/github-contribution-grid-snake.svg">
+  <img alt="Animação das contribuições de Ednaldo no GitHub" src="https://raw.githubusercontent.com/sepolsedev/sepolsedev/gh-pages/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
 ---
 
 **SEPOLSE Tecnologia & Soluções Digitais**
