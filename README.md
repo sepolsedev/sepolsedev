@@ -41,17 +41,29 @@ Entre os projetos em desenvolvimento estão:
 <img src="https://img.shields.io/badge/Nota%20Fácil-MEI-F57C00?style=for-the-badge"> <img src="https://img.shields.io/badge/Emiti.me-NF--e-0D47A1?style=for-the-badge">
 ## Tecnologias
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0D47A1?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-F57C00?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-0D47A1?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F57C00?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-0D47A1?style=for-the-badge&logo=vuedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-F57C00?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-0D47A1?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-F57C00?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-0D47A1?style=for-the-badge&logo=android&logoColor=white">
-</p>
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" title="Python" alt="Python"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" title="PostgreSQL" alt="PostgreSQL"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" title="HTML5" alt="HTML5"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" title="CSS3" alt="CSS3"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript" alt="JavaScript"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="45" height="45" title="Vue.js" alt="Vue.js"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="45" height="45" title="Kotlin" alt="Kotlin"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="45" height="45" title="Android Studio" alt="Android Studio"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" title="Git" alt="Git"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" title="GitHub" alt="GitHub"/>
+
+</div>
 
 ## Áreas de desenvolvimento
 
@@ -64,6 +76,15 @@ Entre os projetos em desenvolvimento estão:
   <img src="https://img.shields.io/badge/Sistemas-Gestão-F57C00?style=for-the-badge">
   <img src="https://img.shields.io/badge/Automação-Processos-0D47A1?style=for-the-badge">
 </p>
+
+## Atualmente estudando
+
+<p>
+  <img src="https://img.shields.io/badge/Desenvolvimento-Web%20%26%20Mobile-0D47A1?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Ciência%20de%20Dados-Formação-F57C00?style=for-the-badge">
+</p>
+
+Aprofundando conhecimentos em desenvolvimento de aplicações, Python, programação orientada a objetos, desenvolvimento web, bancos de dados, ETL e visualização de dados.
 
 ## Projetos acadêmicos
 
@@ -138,6 +159,21 @@ Projeto acadêmico de engenharia de dados desenvolvido em Python para coleta e e
 </a>
 
 </div>
+
+## Atividade no GitHub
+
+<div align="center">
+
+<img src="https://readme-stats-theta-sepia.vercel.app/api/activity-graph?username=sepolsedev&theme=dark&days=365" width="95%" alt="Gráfico de atividade no GitHub"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sepolsedev&label=VISUALIZAÇÕES%20DO%20PERFIL&color=0D47A1&style=for-the-badge" alt="Visualizações do perfil"/>
+
+</div>
+
 ---
 
 **SEPOLSE Tecnologia & Soluções Digitais**
