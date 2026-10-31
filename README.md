@@ -24,27 +24,21 @@ A SEPOLSE é voltada ao desenvolvimento de sistemas e aplicativos para gestão, 
 
 Entre os projetos em desenvolvimento estão:
 
-- **FEN — Finanças, Empresas e Negócios**
-- **FEN Leitor**
-- **FEN Elétrica**
-- **FEN Serralheria**
-- **FEN Agro**
-- **FEN Motos**
-- **FEN Vidro**
-- **FEN Pão**
-- **Guardyan**
-- **SEPOLSEG**
-- **SEPO — Assistente Virtual**
-- **JU — Agente de IA para Desenvolvimento**
-- **SecretBlink**
-- **Aprovado**
-- **AgroDrone**
-- **Conta+**
-- **Conta+ Fácil**
-- **SepolseApp**
-- **Nota Fácil MEI**
-- **Emiti.me**
+### 🟦 Ecossistema FEN
 
+<img src="https://img.shields.io/badge/FEN-Finanças%2C%20Empresas%20e%20Negócios-0D47A1?style=for-the-badge"> <img src="https://img.shields.io/badge/FEN-Leitor-F57C00?style=for-the-badge"> <img src="https://img.shields.io/badge/FEN-Elétrica-0D47A1?style=for-the-badge"> <img src="https://img.shields.io/badge/FEN-Serralheria-F57C00?style=for-the-badge"> <img src="https://img.shields.io/badge/FEN-Agro-0D47A1?style=for-the-badge"> <img src="https://img.shields.io/badge/FEN-Motos-F57C00?style=for-the-badge"> <img src="https://img.shields.io/badge/FEN-Vidro-0D47A1?style=for-the-badge"> <img src="https://img.shields.io/badge/FEN-Pão-F57C00?style=for-the-badge">
+
+### 🟧 Inteligência Artificial e Segurança
+
+<img src="https://img.shields.io/badge/SEPO-Assistente%20Virtual-0D47A1?style=for-the-badge"> <img src="https://img.shields.io/badge/JU-Agente%20de%20IA-F57C00?style=for-the-badge"> <img src="https://img.shields.io/badge/SEPOLSEG-Sistema%20Inteligente-0D47A1?style=for-the-badge"> <img src="https://img.shields.io/badge/Guardyan-Segurança-F57C00?style=for-the-badge"> <img src="https://img.shields.io/badge/SecretBlink-Segurança%20Digital-0D47A1?style=for-the-badge">
+
+### 🟦 Aplicativos e Soluções
+
+<img src="https://img.shields.io/badge/Aprovado-SEPOLSE-0D47A1?style=for-the-badge"> <img src="https://img.shields.io/badge/AgroDrone-SEPOLSE-F57C00?style=for-the-badge"> <img src="https://img.shields.io/badge/Conta%2B-SEPOLSE-0D47A1?style=for-the-badge"> <img src="https://img.shields.io/badge/Conta%2B%20Fácil-SEPOLSE-F57C00?style=for-the-badge"> <img src="https://img.shields.io/badge/SepolseApp-SEPOLSE-0D47A1?style=for-the-badge">
+
+### 🟧 Documentos Fiscais
+
+<img src="https://img.shields.io/badge/Nota%20Fácil-MEI-F57C00?style=for-the-badge"> <img src="https://img.shields.io/badge/Emiti.me-NF--e-0D47A1?style=for-the-badge">
 ## Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
