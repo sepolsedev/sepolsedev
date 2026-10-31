@@ -116,9 +116,13 @@ Projeto acadêmico de dados desenvolvido em Python, com processo ETL dividido em
 ### Coinbase
 
 <img src="https://img.shields.io/badge/Python-Pipeline%20de%20Dados-0D47A1?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-Bronze%20%7C%20Silver-F57C00?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-Bronze%20%7C%20Prata%20%7C%20Ouro-F57C00?style=for-the-badge&logo=postgresql&logoColor=white">
 
 Projeto acadêmico de engenharia de dados desenvolvido em Python para coleta e estruturação de dados climáticos da API Open-Meteo, utilizando conceitos de pipeline de dados, armazenamento em camadas e integração com PostgreSQL.
+
+<a href="https://github.com/sepolsedev/coinbase">
+  <img src="https://img.shields.io/badge/ABRIR-REPOSITÓRIO-F57C00?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 
