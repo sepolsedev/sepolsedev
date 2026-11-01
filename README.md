@@ -12,9 +12,18 @@
 
 <br><br>
 
-Desenvolvedor de sistemas, aplicativos e soluções digitais.
+Estudante de **Desenvolvimento Web e Mobile** e **Ciência de Dados**, com projetos práticos em desenvolvimento de software, aplicações Android, bancos de dados, ETL e análise de dados.
 
-Atualmente ampliando minha formação em **Desenvolvimento Web e Mobile** e **Ciência de Dados**.
+**Python • PostgreSQL • SQL • ETL • Pandas • NumPy • Kotlin • Android**
+
+<br>
+
+<a href="https://www.linkedin.com/in/ednaldodasilvalopes/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ednaldo%20da%20Silva%20Lopes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/sepolsedev">
+  <img src="https://img.shields.io/badge/GitHub-sepolsedev-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </div>
 
@@ -59,6 +68,14 @@ Entre os projetos em desenvolvimento estão:
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="45" height="45" title="Android Studio" alt="Android Studio"/>
 &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" title="Visual Studio Code" alt="Visual Studio Code"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="45" height="45" title="Firebase" alt="Firebase"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" height="45" title="Pandas" alt="Pandas"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45" height="45" title="NumPy" alt="NumPy"/>
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" title="Git" alt="Git"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" title="GitHub" alt="GitHub"/>
@@ -84,7 +101,7 @@ Entre os projetos em desenvolvimento estão:
   <img src="https://img.shields.io/badge/Ciência%20de%20Dados-Formação-F57C00?style=for-the-badge">
 </p>
 
-Aprofundando conhecimentos em desenvolvimento de aplicações, Python, programação orientada a objetos, desenvolvimento web, bancos de dados, ETL e visualização de dados.
+Aprofundando conhecimentos em Python, PostgreSQL, SQL, ETL, Pandas, NumPy, programação orientada a objetos, desenvolvimento web e mobile, Android, bancos de dados e visualização de dados.
 
 ## Projetos acadêmicos
 
